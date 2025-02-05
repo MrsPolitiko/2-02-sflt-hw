@@ -9,7 +9,7 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
 ![Работа haproxy](./img/task1-01.png)
-![Конфиг haproxy](./config/haproxy-1.cfg)
+[Конфиг haproxy](./config/haproxy-1.cfg)
 
 ---
 
@@ -21,7 +21,7 @@
 
 ![Работа haproxy](./img/task2-01.png)
 ![Статистика haproxy](./img/task2-02.png)
-![Конфиг haproxy](./config/haproxy-2.cfg)
+[Конфиг haproxy](./config/haproxy-2.cfg)
 
 ---
 
